@@ -160,7 +160,7 @@ members = [
     "rusoto/services/pi",
     "rusoto/services/pinpoint-email",
     "rusoto/services/pinpoint-sms-voice",
-    "rusoto/services/polly",
+    "rusoto/services/polly2",
     "rusoto/services/pricing",
     "rusoto/services/qldb",
     "rusoto/services/qldb-session",
